@@ -1,4 +1,4 @@
-# Telecom-customer-churn-visualization
+# Telecom-customer-churn-Dashboard
 Overview
 
 This project focuses on analyzing telecom customer churn data to identify key factors influencing customer retention and attrition. Using Tableau, multiple interactive dashboards were created to visualize customer demographics, service usage, and financial patterns that contribute to churn behavior.
